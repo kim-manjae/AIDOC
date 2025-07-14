@@ -40,7 +40,7 @@ Flutter · FastAPI · Navermap/google gemini API를 활용해
 | :------: | :--------------------------------------------------------- |
 | **김재혁** | 프로젝트 일정 관리 · 로그인/경로 안내 기능 구현               |
 | **김재원** | 다국어 번역 · AI 챗봇 · API 검색 기능 구현                    |
-| **김만재** | 앱 레이아웃 설계 · Flutter 위젯 구조 설계  |
+|  ⭐️**김만재** ⭐️ | 앱 레이아웃 설계 · Flutter 위젯 구조 설계  |
 
 
 ---
@@ -59,7 +59,7 @@ Flutter · FastAPI · Navermap/google gemini API를 활용해
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
-** Frontend **
+ ⭐️** Frontend ** ⭐️
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
